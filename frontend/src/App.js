@@ -47,8 +47,9 @@ function App() {
 
   return (
     <div>
+      {/* <Creation></Creation> */}
       <Update />
-      <Viewing />
+      {/* <Viewing /> */}
     </div>
   );
 }
