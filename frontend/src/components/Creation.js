@@ -22,7 +22,7 @@ function Creation() {
       <input type='text'></input>
         <br></br>
         <br></br>
-        <button type='sumit'> Submit </button>
+        <button type='sumit' onClick={alert("submit")}> Submit </button>
     </div>
   )
 }
