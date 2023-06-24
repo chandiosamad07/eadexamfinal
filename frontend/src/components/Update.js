@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Creation() {
+function Update() {
   return (
     <div>
-      <label>Recipe title</label>
+        <label>Recipe title</label>
       <input type='text'></input>
       <br></br>
       <br></br>
@@ -22,9 +22,9 @@ function Creation() {
       <input type='text'></input>
         <br></br>
         <br></br>
-        <button type='sumit'> Submit </button>
+        <button type='sumit'> Update </button>
     </div>
   )
 }
 
-export default Creation
+export default Update
